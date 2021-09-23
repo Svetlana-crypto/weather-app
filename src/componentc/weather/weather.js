@@ -23,7 +23,7 @@ const Weather = ({weatherData}) => {
       <p>Восход:{formattedTime(weatherData.sys.sunrise)} </p>
       <p>Закат:{formattedTime(weatherData.sys.sunset)} </p>
       <p>Скорость ветра:{weatherData.wind.speed} m.s</p>
-      <p></p>
+
 
 
 
