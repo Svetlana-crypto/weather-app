@@ -1,0 +1,14 @@
+.error {
+    color: #020000;
+    margin: 40px;
+    font-size: 30px;
+    transition: 0.6s;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.9); /* Параметры тени */
+    border-radius: 8px;
+}
+/*:hover {*/
+/*    font-size: 50px;*/
+/*    color: #0c63e4;*/
+/*    transition: .6s;*/
+/*}*/
+

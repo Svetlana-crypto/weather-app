@@ -1,0 +1,26 @@
+input{
+    border-radius: 8px;
+    border: none;
+    height: 28px;
+    width: 120px;
+    margin: 4px;
+    color: mediumblue;
+    text-transform: uppercase;
+    padding-left: 13px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.9); /* Параметры тени */
+
+}
+
+button{
+    border-radius: 8px;
+    border: none;
+    height: 30px;
+    margin: 4px;
+    text-transform: uppercase;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.9); /* Параметры тени */
+
+}
+form{
+    margin: 30px;
+}
+

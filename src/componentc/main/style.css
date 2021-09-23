@@ -1,0 +1,28 @@
+.main {
+    background: url("https://i2.wp.com/dars.london/wp-content/uploads/2018/09/coffee-cup-shutterstock_264132746.jpg?fit=1024%2C694&ssl=1");
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 86vh;
+    width: 58vh;
+    border: 2px solid #938f8f;
+    margin: 50px 390px;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 30px 30px rgba(9, 2, 2, 0.9); /* Параметры тени */
+
+}
+form{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 110px 0 30px;
+
+}
+
+
+
+
+
+
+
